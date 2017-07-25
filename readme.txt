@@ -3,4 +3,5 @@ Git is free software.
 xsf is xushuifei's simple spell
 Creating a new branch is quick and simple
 git commit add merge 170721----2
-this is my city in learn git 
+in learngit folder this is dev branch
+
